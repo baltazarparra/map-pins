@@ -1,2 +1,1 @@
-# 🗺️ map-pins
-Next.js + Leaflet
+# 🗺️ Map Pins
