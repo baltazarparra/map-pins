@@ -1,8 +1,12 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`<Main /> should render the heading 1`] = `
+.c0 {
+  background-color: #ebebeb;
+}
+
 <main
-  class="styles__Wrapper-sc-f6wgaf-0 lhPgDG"
+  class="c0"
 >
   <h1>
     Boilerplate
