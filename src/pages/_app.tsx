@@ -7,12 +7,15 @@ function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>Boilerplate</title>
+        <title>Map Pins</title>
         <link rel="shortcut icon" href="/img/icon-512.png" />
         <link rel="apple-touch-icon" href="/img/icon-512.png" />
         <link rel="manifest" href="/manifest.json" />
         <meta name="theme-color" content="#666" />
-        <meta name="description" content="Boilerplate" />
+        <meta
+          name="description"
+          content="Map Pins, made in nextjs and leaflet"
+        />
       </Head>
       <GlobalStyles />
       <Component {...pageProps} />
