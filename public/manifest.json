@@ -14,7 +14,7 @@
       }
   ],
   "background_color": "#666",
-  "description": "Map Pins, made in nextjs and leaflet",
+  "description": "Map Pins, made with Next.js, Leaflet and graphCMS",
   "display": "standalone",
   "start_url": "/",
   "theme_color": "#ebebeb"

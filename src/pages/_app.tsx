@@ -14,7 +14,7 @@ function App({ Component, pageProps }: AppProps) {
         <meta name="theme-color" content="#666" />
         <meta
           name="description"
-          content="Map Pins, made in nextjs and leaflet"
+          content="Map Pins, made with Next.js, Leaflet and graphCMS"
         />
       </Head>
       <GlobalStyles />
